@@ -1,3 +1,7 @@
+---
+title: The Tour Begins
+categories: [General]
+---
 When I was a wee lad in the 1980s, I was introducted to role-playing games and fell in love with them. All the kids in the apartment complex would get together and play all sorts of systems: Dungeons & Dragons (Basic and AD&D), Car Wars, Marvel Super Heroes, and Star Frontiers to name a few.
 
 Of course, all good things come to an end. The [Satanic Panic](https://en.wikipedia.org/wiki/Satanic_panic) was very much a real thing and my very religious stepmother forbade me from having any D&D-related items in her house. Other kids moved away. And I was already a big enough nerd in high school without drawing more attention to myself with roleplaying. The public perception of tabletop gaming at the time was definitely more Revenge of the Nerds and less Critical Role.
