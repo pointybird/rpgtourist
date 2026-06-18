@@ -121,9 +121,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: rpgtourist/rpgtourist.github.io
-    repo_id: 1270611423
-    category:
-    category_id:
+    repo_id: R_kgDOS7v93w
+    category: Announcements
+    category_id: DIC_kwDOS7v9384C_Y9x
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
