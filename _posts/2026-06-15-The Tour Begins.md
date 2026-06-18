@@ -1,6 +1,7 @@
 ---
 title: The Tour Begins
 categories: [General]
+comments: true
 ---
 When I was a wee lad in the 1980s, I was introducted to role-playing games and fell in love with them. All the kids in the apartment complex would get together and play all sorts of systems: Dungeons & Dragons (Basic and AD&D), Car Wars, Marvel Super Heroes, and Star Frontiers to name a few.
 

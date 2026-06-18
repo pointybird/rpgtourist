@@ -2,6 +2,7 @@
 title: Character Creation - Dragonbane
 categories: [Character Creation]
 tags: [dragonbane]
+comments: true
 ---
 For my first character creation writeup, I'll be going with Free League's [Dragonbane](https://freeleaguepublishing.com/games/dragonbane/), a NuSR game featuring great artwork, skill-based progression, a d20 roll-under mechanic, and most controversially to some people, anthropomorphic ducks as a playable race.
 
